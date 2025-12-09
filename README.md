@@ -111,7 +111,7 @@ sudo apt install -y borgbackup
 
 ```bash
 # Clone or download PULSE files to a directory
-mkdir -p ~/pulse
+git clone https://github.com/danielnoelle/pulse.linux.git
 cd ~/pulse
 
 # Copy all PULSE files here:
@@ -748,4 +748,5 @@ For issues, questions, or suggestions, please:
 4. Contact development team with detailed information
 
 **Happy System Administration! 🚀**
+
 
