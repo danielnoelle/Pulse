@@ -146,7 +146,7 @@ Real-time system monitoring with interactive dashboards and process management.
 <tr>
 <td width="50%">
 <img src="assets/monitor.png" alt="System Monitor" width="100%" style="border-radius:12px;box-shadow:0 4px 20px rgba(0,0,0,0.1);"/>
-<p align="center"><em>Real-Time Resource Monitor</em></p>
+<p align="center"><em>Hardening Audit</em></p>
 </td>
 <td width="50%">
 <img src="assets/about.png" alt="About Screen" width="100%" style="border-radius:12px;box-shadow:0 4px 20px rgba(0,0,0,0.1);"/>
@@ -190,3 +190,4 @@ See [LICENSE](LICENSE) for full details.
 ⭐ Star this repository if you find it helpful!
 
 </div>
+
